@@ -1,7 +1,7 @@
 ### Hi there I'm Zilani 👋
 
 <!-- [![Website](https://img.shields.io/github/followers/towsizilani?style=social)](https://github.com/towsizilani) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/zilanise?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=zilanise) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/towsifzilani?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=towsifzilani) 
 
 <br />
 <br />
